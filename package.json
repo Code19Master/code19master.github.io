@@ -1,7 +1,7 @@
 {
-  "name": "codebyte.re",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "codebytere's personal website",
+  "description": "Divik's personal website",
   "main": "js/cli.js",
   "scripts": {
     "dev": "http-server -o",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codebytere/codebytere.github.io.git"
+    "url": "git+https://github.com/Code19Master/portfolio"
   },
-  "author": "Shelley Vohr <shelley.vohr@gmail.com>",
+  "author": "Divik Babbar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codebytere/codebytere.github.io/issues"
+    "url": "https://github.com/Code19Master/portfolio"
   },
-  "homepage": "https://github.com/codebytere/codebytere.github.io#readme",
+  "homepage": "https://github.com/Code19Master/portfolio",
   "devDependencies": {
     "http-server": "^0.12.1",
     "prettier": "^2.0.2"
